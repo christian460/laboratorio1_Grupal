@@ -15,18 +15,23 @@ public class Calculadora{
 		switch(op){
 			case 1:
 				res=1;
+				break;
 			case 2:
-				restar(num1,num2);
+				res=restar(num1,num2);
+				break;
 			case 3:
 				res=3;
+				break;
 			case 4:
 				res=4;
+				break;
 			case 5:
 				res=5;
+				break;
 		}
 		System.out.println("El resultado es:"+res);
 	}
-	public int restar(int num1,int num2){
-		return a-b;
+	public static int restar(int num1,int num2){
+		return num1-num2;
 	}
 }
