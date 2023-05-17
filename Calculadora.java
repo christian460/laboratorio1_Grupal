@@ -23,12 +23,15 @@ public class Calculadora{
 				res=3;
 				break;
 			case 4:
-				res=4;
+				res=dividir(num1,num2);
 				break;
 			case 5:
 				res=5;
 				break;
 		}
 		System.out.println("El resultado es:"+res);
+	}
+	public static int dividir(int num1,int num2){
+		return num1/num2;
 	}
 }
