@@ -12,6 +12,23 @@ public class Calculadora{
 		System.out.println("Escoja la operacion:"+"\n"+"1. Suma"+"\n"+"2. Resta"+"\n"+
 				"3. Multiplicacion"+"\n"+"4. Division"+"\n"+"5. Modulo");
 		op=sc.nextInt();
+		switch(op){
+			case 1:
+				res=1;
+				break;
+			case 2:
+				res=2;
+				break;
+			case 3:
+				res=3;
+				break;
+			case 4:
+				res=4;
+				break;
+			case 5:
+				res=5;
+				break;
+		}
 		System.out.println("El resultado es:"+res);
 	}
 }
