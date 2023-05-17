@@ -12,6 +12,7 @@ public class Calculadora{
 		System.out.println("Escoja la operacion:"+"\n"+"1. Suma"+"\n"+"2. Resta"+"\n"+
 				"3. Multiplicacion"+"\n"+"4. Division"+"\n"+"5. Modulo");
 		op=sc.nextInt();
+<<<<<<< HEAD
 		switch(op){
 			case 1:
 				res=1;
@@ -29,6 +30,26 @@ public class Calculadora{
 				res=5;
 				break;
 		}
+||||||| aee62be
+=======
+		switch(op){
+			case 1:
+				res=1;
+				break;
+			case 2:
+				res=2;
+				break;
+			case 3:
+				res=3;
+				break;
+			case 4:
+				res=4;
+				break;
+			case 5:
+				res=5;
+				break;
+		}
+>>>>>>> master
 		System.out.println("El resultado es:"+res);
 	}
 	public static int restar(int num1,int num2){
