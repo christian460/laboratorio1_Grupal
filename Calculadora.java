@@ -20,10 +20,10 @@ public class Calculadora{
 				res = restar(num1, num2);
 				break;
 			case 3:
-				res = 3;
+				res = mul(num1, num2);
 				break;
 			case 4:
-				res = dividir(num1,num2);
+				res = dividir(num1, num2);
 				break;
 			case 5:
 				res = 5;
@@ -38,6 +38,10 @@ public class Calculadora{
 	
 	public static int restar(int num1,int num2){
 		return num1 - num2;
+	}
+	
+	public static int mul(int num1,int num2){
+		return num1 * num2;
 	}
 	
 	public static int dividir(int num1,int num2){
