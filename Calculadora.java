@@ -26,7 +26,7 @@ public class Calculadora{
 				res = dividir(num1, num2);
 				break;
 			case 5:
-				res = 5;
+				res = mod(num1, num2);
 				break;
 		}
 		System.out.println("El resultado es:" + res);
@@ -46,5 +46,9 @@ public class Calculadora{
 	
 	public static int dividir(int num1,int num2){
 		return num1 / num2;
+	}
+	
+	public static int mod(int num1,int num2){
+		return num1 % num2;
 	}
 }
