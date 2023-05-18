@@ -14,29 +14,33 @@ public class Calculadora{
 		op=sc.nextInt();
 		switch(op){
 			case 1:
-				res=1;
+				res = add(num1, num2);
 				break;
 			case 2:
-				res=restar(num1,num2);
+				res = restar(num1, num2);
 				break;
 			case 3:
-				res=3;
+				res = 3;
 				break;
 			case 4:
-				res=dividir(num1,num2);
+				res = dividir(num1,num2);
 				break;
 			case 5:
-				res=5;
+				res = 5;
 				break;
 		}
-		System.out.println("El resultado es:"+res);
+		System.out.println("El resultado es:" + res);
 	}
 
+	public static int add(int num1,int num2){
+		return num1 + num2;
+	}
+	
 	public static int restar(int num1,int num2){
-		return num1-num2;
+		return num1 - num2;
 	}
-
+	
 	public static int dividir(int num1,int num2){
-		return num1/num2;
+		return num1 / num2;
 	}
 }
