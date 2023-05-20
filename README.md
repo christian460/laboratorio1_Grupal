@@ -396,12 +396,20 @@ EVIDENCIAS DEL LABORATORIO
 - Nuevo proyecto
 
  ![Commits](nuevo.jpg)
-- El codigo fuente del ejercicio planteado(Joshep Antony Ccahuana Larota)
+- El codigo fuente del ejercicio planteado(Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe)
 
  ![Commits](hola-jho.jpg)
+ 
+- Se utliza "System.out.print()" para mostrar el mensaje "¡Hola Mundo!"
+ 
  ![Commits](bienvenido-jho.jpg)
+ 
+- Se utliza "System.out.print()" para mostrar el mensaje "Bienvenido al curso"
+ 
  ![Commits](nombre-jho.jpg)
-- El codigo fuente del ejercicio planteado(Pedro Lusis Christian Zapana Romero)
+ 
+- Se importo Scanner para poder introducir el nombre requerido, se utliza "System.out.print()" para pedir el nombre, para luego ser guardada en la varible name, finalmente ser mostrar el mensaje "Bienvenido..."
+- El codigo fuente del ejercicio planteado(Pedro Lusis Christian Zapana Romero - pzapanar@unsa.edu.pe)
 
  ![Commits](codigoHola.jpg)
  
