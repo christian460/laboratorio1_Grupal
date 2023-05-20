@@ -386,16 +386,19 @@ Primer repositorio en GitHub
         ```
 
 #
-## EVIDENCIAS DEL LABORATORIO
-- Los commits del alumno Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe:
- ![Commits](jhosep.jpg)
-- Los commits del alumno Pedro Luis Christian Zapana Romero - pzapanar@unsa.edu.pe
- ![Commits](pedro.jpg)
-#
+
 ## EJERCICIOS PROPUESTOS
 - Cree una cuenta de usuario en GitHub usando su correo institucional.
 - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits como mínimo y muéstrelos. Commit para "¡Hola mundo!", otro para "Bienvenida al curso" y otro para imprimir su nombre.
+
+EVIDENCIAS DEL LABORATORIO
+- Nuevo proyecto
+- Los commits del alumno Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe:
+ ![Commits](jhosep.jpg)
+- Los commits del alumno Pedro Luis Christian Zapana Romero - pzapanar@unsa.edu.pe
+ ![Commits](pedro.jpg)
+ 
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
 - Debería haber minimo 7 commits:
     - 1er commit - Creación de la plantilla "Calculator.java"
