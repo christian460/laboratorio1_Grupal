@@ -341,7 +341,7 @@ Primer repositorio en GitHub
         ```
 
 - Ahora podemos verificar en GitHub que nuestro repositorio se actualizó con el proyecto local
-    - ![Readme.md](Readme.md.png)
+    - ![Readme.md](Readme.png)
 
 - Cree una clase Java HolaMundo.java que imprima un saludo, compílelo, ignore archivos binarios, agregue archivo al stating area, haga commit y súbalo al repositorio GitHub.
     -   ```sh
@@ -386,10 +386,11 @@ Primer repositorio en GitHub
         ```
 
 #
-## DESARROLLO DEL EJERCICIO PROPUESTO
+## EVIDENCIAS DEL LABORATORIO
 - Los commits del alumno Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe:
  ![Commits](jhosep.jpg)
-
+- Los commits del alumno Pedro Luis Christian Zapana Romero - pzapanar@unsa.edu.pe
+ ![Commits](pedro.jpg)
 #
 ## EJERCICIOS PROPUESTOS
 - Cree una cuenta de usuario en GitHub usando su correo institucional.
