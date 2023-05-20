@@ -396,7 +396,12 @@ EVIDENCIAS DEL LABORATORIO
 - Nuevo proyecto
 
  ![Commits](nuevo.jpg)
-- El codigo fuente del ejercicio planteado
+- El codigo fuente del ejercicio planteado(Joshep Antony Ccahuana Larota)
+
+ ![Commits](hola-jho.jpg)
+ ![Commits](bienvenido-jho.jpg)
+ ![Commits](nombre-jho.jpg)
+- El codigo fuente del ejercicio planteado(Pedro Lusis Christian Zapana Romero)
 
  ![Commits](codigoHola.jpg)
  
@@ -404,6 +409,7 @@ EVIDENCIAS DEL LABORATORIO
 - Ejecucion del codigo
 
  ![Commits](HolaMundo.jpg)
+ 
 - Los commits del alumno Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe:
  ![Commits](jhosep.jpg)
 - Los commits del alumno Pedro Luis Christian Zapana Romero - pzapanar@unsa.edu.pe
@@ -422,8 +428,11 @@ EVIDENCIAS DEL LABORATORIO
 
 ## CUESTIONARIO
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?
+Porque con sus diferentes mecánicas, como la opción de crear ramas, clonar, retroceder a versiones anteriores, etc. El trabajo colaborativo de varios participantes a la vez, se convierte en una tarea sencilla y fácil de sobrellevar.
 - ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
-- ¿Qué son los entándares de codificación?
+El poner etiquetas a las diferentes versiones guardadas (commits), así mismo de siempre trabajar siempre en una rama aparte y no en el main o principal de manera directa, además de ser posible agregar comentarios de la versión o cambios realizados más allá de la etiqueta del commit.
+- ¿Qué son los estándares de codificación?
+Es una serie de reglas que debe seguirse en la codificación, como por ejemplo la cantidad de espacios para indentación del código, y demás particulares de escritura, para un mejor orden, entendimiento y generalidad en el código.
 
 #
 
