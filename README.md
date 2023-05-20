@@ -400,20 +400,20 @@ EVIDENCIAS DEL LABORATORIO
 
  ![Commits](hola-jho.jpg)
  
-- Se utliza "System.out.print()" para mostrar el mensaje "¡Hola Mundo!"
+    - Se utliza "System.out.print()" para mostrar el mensaje "¡Hola Mundo!"
  
  ![Commits](bienvenido-jho.jpg)
  
-- Se utliza "System.out.print()" para mostrar el mensaje "Bienvenido al curso"
+    - Se utliza "System.out.print()" para mostrar el mensaje "Bienvenido al curso"
  
  ![Commits](nombre-jho.jpg)
  
-- Se importo Scanner para poder introducir el nombre requerido, se utliza "System.out.print()" para pedir el nombre, para luego ser guardada en la varible name, finalmente ser mostrar el mensaje "Bienvenido..."
+    - Se importo Scanner para poder introducir el nombre requerido, se utliza "System.out.print()" para pedir el nombre, para luego ser guardada en la varible name, finalmente ser mostrar el mensaje "Bienvenido..."
 - El codigo fuente del ejercicio planteado(Pedro Lusis Christian Zapana Romero - pzapanar@unsa.edu.pe)
 
  ![Commits](codigoHola.jpg)
  
-  Se importo la clase scanner que nos permitira ingresar el nombre a mostrar, utlizando "System.out.print()" se mostrar los mensajes requeridos para el ejercicio en la variable nom se guarda el valor q es ingresado para luego ser mostrado en un saludo. 
+    - Se importo la clase scanner que nos permitira ingresar el nombre a mostrar, utlizando "System.out.print()" se mostrar los mensajes requeridos para el ejercicio en la variable nom se guarda el valor q es ingresado para luego ser mostrado en un saludo. 
 - Ejecucion del codigo
 
  ![Commits](HolaMundo.jpg)
@@ -429,21 +429,32 @@ EVIDENCIAS DEL LABORATORIO
     ![ejercicio](plantilla.jpg)
     ![ejercicio](switch.jpg)
     
+        - Para el primer commit se importa la librería java util, para el uso de la clase Scanner y posteriormente crear un objeto sc, que ayuda al ingreso de los números a usar en el programa. 
+Asi mismo se hace uso de un switch case, para separar cada llamado de método necesario de las operaciones necesarias.
     - 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().
     
     ![ejercicio](suma.jpg)
     
+        - Se crea una ramma-add, de la cual se ingresa el método add, que usa dos enteros para sumar
+    
     - 3er commit - Uniendo rama "ramma-sub" al "main" para obtener metodo sub().
     ![ejercicio](resta.jpg)
+        - Lo mismo que el anterior metodo, sin embargo aquí se usa menos.
     
     - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
     ![ejercicio](multiplicacion.jpg)
+        - Se ingresa el 4 commit de la entrega, dedicada a la multiplicación de dos números enteros.
     
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
     ![ejercicio](dividir.jpg)
+        - El mismo procedimiento que los anteriores commit, pero con el operador de la división.
     
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
     ![ejercicio](modulo.jpg)
+        - Como método final añadido, el del módulo, el cual regresa el valor residuo de una división 
+    
+    - 7mo commit - Modificaciones finales.
+        - Para una mejor indentación y arreglo de problemas de estándares de codificación se hizo una última revisión y próxima presentación final.
 
 #
 
