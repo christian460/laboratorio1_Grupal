@@ -394,9 +394,13 @@ Primer repositorio en GitHub
 
 EVIDENCIAS DEL LABORATORIO
 - Nuevo proyecto
+
+ ![Commits](nuevo.jpg)
 - El codigo fuente del ejercicio planteado
 
  ![Commits](codigoHola.jpg)
+ 
+  Se importo la clase scanner que nos permitira ingresar el nombre a mostrar, utlizando "System.out.print()" se mostrar los mensajes requeridos para el ejercicio en la variable nom se guarda el valor q es ingresado para luego ser mostrado en un saludo. 
 - Ejecucion del codigo
 
  ![Commits](HolaMundo.jpg)
