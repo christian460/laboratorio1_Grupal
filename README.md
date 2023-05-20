@@ -429,7 +429,7 @@ EVIDENCIAS DEL LABORATORIO
     ![ejercicio](plantilla.jpg)
     ![ejercicio](switch.jpg)
     
-        - Para el primer commit se importa la librería java util, para el uso de la clase Scanner y posteriormente crear un objeto sc, que ayuda al ingreso de los números a usar en el programa. 
+        - Para el primer commit se importa la librería java util, para el uso de la clase Scanner y posteriormente crear un objeto sc, que ayuda al ingreso de los números a usar en el programa. Así mismo se hace uso de un switch case, para separar cada llamado de método necesario de las operaciones necesarias. 
 Asi mismo se hace uso de un switch case, para separar cada llamado de método necesario de las operaciones necesarias.
     - 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().
     
@@ -451,7 +451,7 @@ Asi mismo se hace uso de un switch case, para separar cada llamado de método ne
     
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
     ![ejercicio](modulo.jpg)
-        - Como método final añadido, el del módulo, el cual regresa el valor residuo de una división 
+        - Como método final añadido, el del módulo, el cual regresa el valor residuo de una división.
     
     - 7mo commit - Modificaciones finales.
         - Para una mejor indentación y arreglo de problemas de estándares de codificación se hizo una última revisión y próxima presentación final.
