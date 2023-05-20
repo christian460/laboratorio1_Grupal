@@ -394,6 +394,12 @@ Primer repositorio en GitHub
 
 EVIDENCIAS DEL LABORATORIO
 - Nuevo proyecto
+- El codigo fuente del ejercicio planteado
+
+ ![Commits](codigoHola.jpg)
+- Ejecucion del codigo
+
+ ![Commits](HolaMundo.jpg)
 - Los commits del alumno Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe:
  ![Commits](jhosep.jpg)
 - Los commits del alumno Pedro Luis Christian Zapana Romero - pzapanar@unsa.edu.pe
