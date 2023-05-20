@@ -386,7 +386,11 @@ Primer repositorio en GitHub
         ```
 
 #
+## DESARROLLO DEL EJERCICIO PROPUESTO
+- Los commits del alumno Joshep Antony Ccahuana Larota - jccahuanala@unsa.edu.pe:
+ ![Commits](jhosep.jpg)
 
+#
 ## EJERCICIOS PROPUESTOS
 - Cree una cuenta de usuario en GitHub usando su correo institucional.
 - [opcional por ahora] Configure su cuenta de estudiante (https://education.github.com/pack).
